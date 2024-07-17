@@ -29,8 +29,9 @@ const ProfileText = ({ visible, titleId }) => (
       about new projects, so feel free to drop me a line.
     </Text>
     <Text className={styles.description} data-visible={visible} size="l" as="p">
-      In pursuit of my BSC in CSE, I strategically utilize my skills as a part-time 
-      freelancer to garner practical experience and continuously refine my programming prowess.
+      Currently, I work as a Digital Marketer at IBCS-Primax, where I apply my technical skills to 
+      enhance digital outreach and engagement. In pursuit of my BSc in CSE, I strategically utilize my 
+      skills as a part-time freelancer to garner practical experience and continuously refine my programming prowess.
       Being comfortable with code allows me to rapidly prototype and validate experiences. If 
       you’re interested in the tools and software I use check out my <Link href="/uses">uses page</Link>.
     </Text>

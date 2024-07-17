@@ -78,8 +78,20 @@ const workData = [
   { 
     id: 1, 
     date: 'Present', 
+    description: "Digital Marketer",
+    company: "Company: IBCS-PRIMAX Software Limited ",
+    duration: "Duration: July 2024 - Present",
+    responsibilities: "Key Services Offered:",
+    r1: "Maintaining social media, answering queries for any course or training program.",
+    r2: "Handling trainee communications, especially students from polytechnic institutes.",
+    r3: "Illustrating banners for social media posts and ceremonial activities.",
+    r4: "Working as a lab assistant to manage network connections and troubleshoot technical issues.",
+  },
+  { 
+    id: 2, 
+    date: '2023', 
     description: "Freelance Web Developer",
-    duration: "Duration: May 2022 - Present",
+    duration: "Duration: May 2023 - March 2024",
     responsibilities: "Key Services Offered:",
     r1: "Custom website design and development.",
     r2: "Responsive web development to ensure compatibility across all devices.",
@@ -87,7 +99,7 @@ const workData = [
     r4: "Website maintenance and updates to keep sites running smoothly.",
   },
   { 
-    id: 2, 
+    id: 3, 
     date: '2022', 
     description: 'Game Developer Intern', 
     company: "Company: GameXltd",
@@ -97,7 +109,7 @@ const workData = [
     r3: "Provided game mechanics ideas and suggestions to enhance gameplay experience.",
   },
   { 
-    id: 3, 
+    id: 4, 
     date: '2021', 
     description: 'Network Engineer Intern' , 
     company: "Company: IT Bangladesh", 
@@ -105,7 +117,7 @@ const workData = [
     r1: "Collaborated on Cisco router configurations and routing protocols.",
     r2: "Developed complex network simulations to test various scenarios.",
     r3: "Assisted in troubleshooting and resolving network issues.",
-  },
+  }
   // Add more timeline events as needed
 ];
 
@@ -175,7 +187,7 @@ export function VolkiharKnight() {
                 secondary
                 iconHoverShift
                 icon="chevronRight"
-                href="https://shoaib.zahoorbd.com/portfolio"
+                href="https://drive.google.com/uc?export=download&id=15TPtlE2wTTDpbH3K6FAUkG6zRZVoKt1j"
               >
                 Download CV
               </Button>
